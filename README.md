@@ -6,10 +6,10 @@ Includes a Pygame interface for playing manually or watching the AI play.
 
 ## Logic 
 
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/81f46345-eec2-4c8c-8f14-ef72315dfeb6" />
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/81f46345-eec2-4c8c-8f14-ef72315dfeb6" />
 
 ## Game screenshot
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/3576eca6-aa5b-4fde-80a5-dd04e209b306" />
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/3576eca6-aa5b-4fde-80a5-dd04e209b306" />
 
 
 ---
