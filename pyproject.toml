@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "agent2048"
+version = "0.1.0"
+description = "AI agent for the 2048 game using heuristics and the Expectimax algorithm."
+readme = "README.md"
+requires-python = ">=3.9"
+license = {text = "MIT"}
+authors = [{name = "Emil"}]
+dependencies = ["pygame>=2.5"]
+
+[project.optional-dependencies]
+dev = ["pytest>=8", "ruff>=0.5", "black>=24.3", "pre-commit>=3.7"]
+
+[project.scripts]
+agent2048 = "agent2048.game:main"
